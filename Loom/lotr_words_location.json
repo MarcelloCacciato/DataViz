@@ -1,0 +1,448 @@
+[
+  {
+    "location": "Flevoland",
+    "character": "0000",
+    "words": 679
+  },
+  {
+    "location": "Flevoland",
+    "character": "1089",
+    "words": 124
+  },
+  {
+    "location": "Flevoland",
+    "character": "1102",
+    "words": 239
+  },
+  {
+    "location": "Flevoland",
+    "character": "1032",
+    "words": 1064
+  },
+  {
+    "location": "Flevoland",
+    "character": "4632",
+    "words": 173
+  },
+  {
+    "location": "Utrecht",
+    "character": "2053",
+    "words": 258
+  },
+  {
+    "location": "Utrecht",
+    "character": "0000",
+    "words": 125
+  },
+  {
+    "location": "Utrecht",
+    "character": "4632",
+    "words": 56
+  },
+  {
+    "location": "Utrecht",
+    "character": "1089",
+    "words": 76
+  },
+  {
+    "location": "Utrecht",
+    "character": "1102",
+    "words": 71
+  },
+  {
+    "location": "Drenthe",
+    "character": "2053",
+    "words": 3
+  },
+  {
+    "location": "Drenthe",
+    "character": "1089",
+    "words": 108
+  },
+  {
+    "location": "Drenthe",
+    "character": "2059",
+    "words": 45
+  },
+  {
+    "location": "Drenthe",
+    "character": "1032",
+    "words": 224
+  },
+  {
+    "location": "Drenthe",
+    "character": "4632",
+    "words": 116
+  },
+  {
+    "location": "Friesland",
+    "character": "0000",
+    "words": 153
+  },
+  {
+    "location": "Friesland",
+    "character": "4776",
+    "words": 259
+  },
+  {
+    "location": "Friesland",
+    "character": "2059",
+    "words": 38
+  },
+  {
+    "location": "Friesland",
+    "character": "4120",
+    "words": 34
+  },
+  {
+    "location": "Friesland",
+    "character": "1102",
+    "words": 105
+  },
+  {
+    "location": "Friesland",
+    "character": "1032",
+    "words": 276
+  },
+  {
+    "location": "Friesland",
+    "character": "2053",
+    "words": 232
+  },
+  {
+    "location": "Friesland",
+    "character": "4632",
+    "words": 29
+  },
+  {
+    "location": "Friesland",
+    "character": "1089",
+    "words": 27
+  },
+  {
+    "location": "Gelderland",
+    "character": "4120",
+    "words": 11
+  },
+  {
+    "location": "Gelderland",
+    "character": "4632",
+    "words": 17
+  },
+  {
+    "location": "Gelderland",
+    "character": "1089",
+    "words": 10
+  },
+  {
+    "location": "Gelderland",
+    "character": "1102",
+    "words": 3
+  },
+  {
+    "location": "Gelderland",
+    "character": "2053",
+    "words": 42
+  },
+  {
+    "location": "Gelderland",
+    "character": "4776",
+    "words": 76
+  },
+  {
+    "location": "Gelderland",
+    "character": "1032",
+    "words": 86
+  },
+  {
+    "location": "Gelderland",
+    "character": "2059",
+    "words": 66
+  },
+  {
+    "location": "Gelderland",
+    "character": "0000",
+    "words": 6
+  },
+  {
+    "location": "Groningen",
+    "character": "1032",
+    "words": 762
+  },
+  {
+    "location": "Groningen",
+    "character": "2059",
+    "words": 102
+  },
+  {
+    "location": "Groningen",
+    "character": "4120",
+    "words": 19
+  },
+  {
+    "location": "Groningen",
+    "character": "4632",
+    "words": 17
+  },
+  {
+    "location": "Groningen",
+    "character": "1089",
+    "words": 21
+  },
+  {
+    "location": "Groningen",
+    "character": "1102",
+    "words": 32
+  },
+  {
+    "location": "Groningen",
+    "character": "0000",
+    "words": 90
+  },
+  {
+    "location": "Groningen",
+    "character": "4776",
+    "words": 55
+  },
+  {
+    "location": "Groningen",
+    "character": "2053",
+    "words": 98
+  },
+  {
+    "location": "Limburg",
+    "character": "4120",
+    "words": 68
+  },
+  {
+    "location": "Limburg",
+    "character": "1102",
+    "words": 64
+  },
+  {
+    "location": "Limburg",
+    "character": "4632",
+    "words": 11
+  },
+  {
+    "location": "Limburg",
+    "character": "0000",
+    "words": 36
+  },
+  {
+    "location": "Limburg",
+    "character": "1089",
+    "words": 1
+  },
+  {
+    "location": "Limburg",
+    "character": "2053",
+    "words": 55
+  },
+  {
+    "location": "Limburg",
+    "character": "4776",
+    "words": 176
+  },
+  {
+    "location": "Limburg",
+    "character": "2059",
+    "words": 165
+  },
+  {
+    "location": "Overijssel",
+    "character": "1102",
+    "words": 89
+  },
+  {
+    "location": "Abroad",
+    "character": "0000",
+    "words": 129
+  },
+  {
+    "location": "Abroad",
+    "character": "1089",
+    "words": 17
+  },
+  {
+    "location": "Abroad",
+    "character": "4776",
+    "words": 398
+  },
+  {
+    "location": "Abroad",
+    "character": "2053",
+    "words": 319
+  },
+  {
+    "location": "Abroad",
+    "character": "2059",
+    "words": 60
+  },
+  {
+    "location": "Abroad",
+    "character": "4120",
+    "words": 52
+  },
+  {
+    "location": "Abroad",
+    "character": "4632",
+    "words": 20
+  },
+  {
+    "location": "Overijssel",
+    "character": "1102",
+    "words": 347
+  },
+  {
+    "location": "Overijssel",
+    "character": "0000",
+    "words": 223
+  },
+  {
+    "location": "Zeeland",
+    "character": "2053",
+    "words": 907
+  },
+  {
+    "location": "Zeeland",
+    "character": "4120",
+    "words": 407
+  },
+  {
+    "location": "Zeeland",
+    "character": "1089",
+    "words": 203
+  },
+  {
+    "location": "Zeeland",
+    "character": "4632",
+    "words": 281
+  },
+  {
+    "location": "Zeeland",
+    "character": "1032",
+    "words": 671
+  },
+  {
+    "location": "Zeeland",
+    "character": "2059",
+    "words": 607
+  },
+  {
+    "location": "North Brabant",
+    "character": "1032",
+    "words": 524
+  },
+  {
+    "location": "North Brabant",
+    "character": "4120",
+    "words": 73
+  },
+  {
+    "location": "North Brabant",
+    "character": "4632",
+    "words": 297
+  },
+  {
+    "location": "North Brabant",
+    "character": "1089",
+    "words": 276
+  },
+  {
+    "location": "North Brabant",
+    "character": "2053",
+    "words": 108
+  },
+  {
+    "location": "North Brabant",
+    "character": "2059",
+    "words": 89
+  },
+  {
+    "location": "North Holland",
+    "character": "4776",
+    "words": 132
+  },
+  {
+    "location": "North Holland",
+    "character": "1102",
+    "words": 822
+  },
+  {
+    "location": "North Holland",
+    "character": "0000",
+    "words": 491
+  },
+  {
+    "location": "North Holland",
+    "character": "1032",
+    "words": 1155
+  },
+  {
+    "location": "North Holland",
+    "character": "1089",
+    "words": 386
+  },
+  {
+    "location": "North Holland",
+    "character": "2053",
+    "words": 175
+  },
+  {
+    "location": "North Holland",
+    "character": "2059",
+    "words": 72
+  },
+  {
+    "location": "North Holland",
+    "character": "4632",
+    "words": 97
+  },
+  {
+    "location": "North Holland",
+    "character": "4120",
+    "words": 8
+  },
+  {
+    "location": "South Holland",
+    "character": "4120",
+    "words": 8
+  },
+  {
+    "location": "South Holland",
+    "character": "0000",
+    "words": 361
+  },
+  {
+    "location": "South Holland",
+    "character": "2053",
+    "words": 128
+  },
+  {
+    "location": "South Holland",
+    "character": "1032",
+    "words": 32
+  },
+  {
+    "location": "South Holland",
+    "character": "2059",
+    "words": 21
+  },
+  {
+    "location": "South Holland",
+    "character": "4632",
+    "words": 3
+  },
+  {
+    "location": "South Holland",
+    "character": "1089",
+    "words": 12
+  },
+  {
+    "location": "South Holland",
+    "character": "1102",
+    "words": 753
+  }
+]
+
