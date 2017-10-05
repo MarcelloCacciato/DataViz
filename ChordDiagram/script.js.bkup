@@ -8,24 +8,23 @@ var margin = {left:90, top:90, right:90, bottom:90},
     innerRadius = Math.min(width, height) * .39,
     outerRadius = innerRadius * 1.1;
 	
-var Names = ["Abroad","Drenthe","Flevoland","Friesland","Gelderland","Groningen","Limburg","North Brabant","North Holland","Overijssel","South Holland","Utrecht","Zeeland"],
-	colors = ["#034f84", "#92a8d1", "#80ced6", "#d5f4e6", "#deeaee", "#b2b2b2","#b1cbbb","#618685","#eea29a","#f7786b","#c94c4c","#b9936c","#3e4444"],
+var Names = ["Drenthe","Flevoland","Friesland","Gelderland","Groningen","Limburg","North Brabant","North Holland","Overijssel","South Holland","Utrecht","Zeeland"],
+	colors = ["#301E1E", "#083E77", "#342350", "#567235", "#8B161C", "#DF7C00","#301E1E"],
 	opacityDefault = 0.8;
 
 var matrix = [
-	[0,0,0,0,0,0,0,0,0,0,0,0,0], //abroad
-	[0,0,0,0,0,0,0,0,0,0,0,0,0], //drenthe
-	[0,0,0,0,0,0,0,0,0,0,0,0,0], //flevoland
-	[26,18,7,1361,75,15,9,113,77,19,137,23,10], //Friesland
-	[43,23,8,39,338,16,63,201,454,61,267,179,49], //Gelderland
-        [0,0,0,0,0,0,0,0,0,0,0,0,0], //Groningen
-	[6,29,1,4,179,1,12,48,238,18,12,19,4], //Limburg
-        [214,96,233,154,747,75,239,1602,547,188,854,410,120], //N-Brabant
-        [288,8,15,63,201,12,77,218,607,61,340,126,27], //N-Holland
-        [0,0,0,0,0,0,0,0,0,0,0,0,0], //Overijssel
-        [4,1,0,5,25,0,6,19,27,11,145,45,2], //Z-Holland
-        [15,1,2,2,78,1,2,11,17,1,12,220,2], //Utrecht
-	[41,0,5,29,13,2,9,369,36,3,23,13,4], //Zeeland
+	[0,4,3,2,5,2,1,2,3,4,5,6], //Black Widow
+	[4,0,3,2,4,3,1,2,3,4,5,6], //Captain America
+	[3,3,0,2,3,3,1,2,3,4,5,6], //Hawkeye
+	[2,2,2,0,3,3,1,2,3,4,5,6], //The Hulk
+	[5,4,3,3,0,2,1,2,3,4,5,6], //Iron Man
+        [3,3,0,2,3,3,1,2,3,4,5,6], //Hawkeye
+	[2,3,3,3,2,0,1,2,3,4,5,6], //Thor
+        [3,3,0,2,3,3,1,2,3,4,5,6], //Hawkeye
+        [4,0,3,2,4,3,1,2,3,4,5,6], //Captain America
+        [2,2,2,0,3,3,1,2,3,4,5,6], //The Hulk
+        [4,0,3,2,4,3,1,2,3,4,5,6], //Captain America
+        [2,2,2,0,3,3,1,2,3,4,5,6], //The Hulk
 ];
 
 ////////////////////////////////////////////////////////////
